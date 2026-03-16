@@ -49,4 +49,4 @@ It covers **data preprocessing, feature selection, model training, and evaluatio
 ## 🚀 How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Kayla1RB/dementia-prediction-ml.git
+   git clone https://github.com/MckaylaBlankenberg/dementia-prediction-ml.git
