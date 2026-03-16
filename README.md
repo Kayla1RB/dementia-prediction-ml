@@ -60,10 +60,3 @@ It contains anonymized, synthetic patient health data and is included for reprod
 No personally identifiable information is present.
 
 
-
-
-
-
-
----
-v
